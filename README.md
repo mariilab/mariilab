@@ -5,15 +5,6 @@ Interested in building **data-driven tools** for environmental analysis, infrast
 
 ---
 
-## 🔍 Focus Areas
-
-* Geospatial data processing & analysis
-* Google Earth Engine (GEE) scripting
-* Engineering-oriented software tools
-* Automation & reproducible analysis workflows
-
----
-
 ## 🚧 Current Work
 
 * Developing Google Earth Engine scripts for spatial & environmental analysis
@@ -36,23 +27,8 @@ Interested in building **data-driven tools** for environmental analysis, infrast
 * Remote sensing fundamentals
 * GIS concepts (raster, vector, projections)
 
-**Engineering Tools**
-
-* AutoCAD
-* PLAXIS
-* SAP2000 (basic)
-
 **Other**
 
 * Git & GitHub
 * Data visualization
 * Technical documentation
-
----
-
-## 🎯 Goals
-
-* Combine civil engineering knowledge with software & geospatial analysis
-* Build reusable and open geospatial tools
-* Improve code quality, documentation, and reproducibility
-* Prepare for research-oriented and real-world applications
