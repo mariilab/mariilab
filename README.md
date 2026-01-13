@@ -1,6 +1,6 @@
-# 👋 Muhammad Umar Yashin
+# 👋 Hey there!
 
-Civil Engineering student with a focus on **software development**, **geospatial analysis**, and **Google Earth Engine (GEE)**.
+i'm marii, a civil Engineering student with a focus on **software development**, **geospatial analysis**, and **Google Earth Engine (GEE)**.
 Interested in building **data-driven tools** for environmental analysis, infrastructure, and spatial planning.
 
 ---
